@@ -1,0 +1,63 @@
+/*PERSONAL CONFIG*/
+
+header {
+	background: black;
+	/* Full height */
+    height: 100vh; 
+
+   	/* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main-img {
+    max-height: 100vh;
+}
+
+#msg-col {
+    padding: 7vh 5vh 7vh 5vh;
+}
+
+#logo-col {
+    padding: 10vh 5vh 0 5vh;
+}
+
+
+#msg-mail{
+    padding: 1vh 5vh 0vh 0vh;
+    color: #F3C206;
+    font-size: 3vh;
+}
+
+#img-mail {
+    height: 3vh;
+    margin-left: 4vh;
+    margin-top: 2vh;
+}
+
+/*<><><><>*/
+
+
+#msg-col-desk {
+    padding-top: 29vh;
+}
+
+#msg-col-desk-inner {
+    padding: 0vh 7vh 0vh 0vh;
+}
+
+#logo-col-desk {
+    padding-top: 27vh;
+    background: black;
+}
+
+#msg-mail-col {
+    padding: 0vh 0vh 0vh 1vh;
+}
+
+#img-mail-desk {
+    height: 3vh;
+    padding-right: 1vh;
+}
