@@ -1,11 +1,11 @@
 /*PERSONAL CONFIG*/
 
 header {
-	background: black;
-	/* Full height */
+    background: black;
+    /* Full height */
     height: 100vh; 
 
-   	/* Create the parallax scrolling effect */
+    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ header {
 }
 
 #msg-col {
-    padding: 7vh 5vh 7vh 5vh;
+    padding: 7vh 5vh 0vh 5vh;
 }
 
 #logo-col {
@@ -33,8 +33,9 @@ header {
 
 #img-mail {
     height: 3vh;
-    margin-left: 4vh;
-    margin-top: 2vh;
+    margin-left: 3vh;
+    margin-right: 1vh;
+    margin-top: 0vh;
 }
 
 /*<><><><>*/
