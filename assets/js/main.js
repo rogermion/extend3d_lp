@@ -5,7 +5,7 @@ function decide(){
 		content = 
 				'<div class="container-fluid">' +
 					'<div class="row">' +
-						'<div class="col-6 offset-2" id="msg-col-desk">' +
+						'<div class="col-6 offset-1" id="msg-col-desk">' +
 							'<div class="row">' +
 								'<div class="col" id="msg-col-desk-inner">' +
 									'<img src="images/msg.png" class="img-fluid">' +
