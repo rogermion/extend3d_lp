@@ -43,11 +43,8 @@ function decide(){
 		    		'</div>'	+
 		    	'</div>'	+
 	    		'<div class="row">'	+
-	    			'<div class="col-2">'	+
-		    			'<img src="images/close-envelope.png" id="img-mail" class="img-fluid">'	+
-		    		'</div>'	+
-		    		'<div class="col-10">'	+
-		    			'<p id="msg-mail">admin@extend3d.com.br</p>'	+
+		    		'<div class="col">'	+
+		    			'<p id="msg-mail"><img src="images/close-envelope.png" id="img-mail" class="img-fluid">admin@extend3d.com.br</p>'	+
 		    		'</div>'	+
 		    	'</div>'	+
 		    '</div>'	+
